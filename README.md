@@ -2,6 +2,7 @@
 
 NOTE: You should not use any while loops in this homework. All of these concepts can and should be implemented with for loops for multiple reasons. Using while loops for things like Newton's method and linesearches is more difficult for both you and the TA's to debug.
 
+
 Fill out project proposal form: [https://forms.gle/1XwkwVyVWirtZdF68](https://forms.gle/1XwkwVyVWirtZdF68)
 
 In this homework we are going to explore topics in dynamics and optimization. Here is an overview of the problems 
