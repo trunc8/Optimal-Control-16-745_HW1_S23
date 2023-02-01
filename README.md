@@ -1,12 +1,23 @@
 # HW1_S23
 
+**Due Wednesday 2/15 11:59 PM Eastern.**
+
+## Video walkthrough
+
+YouTube link: [https://youtu.be/V7i0tQlBLlE](https://youtu.be/V7i0tQlBLlE)
+
+[![HW1 Walkthrough](https://img.youtu.be/V7i0tQlBLlE.jpg)](https://youtu.be/V7i0tQlBLlE)
+
+
+## Instructions
 NOTE: You should not use any while loops in this homework. All of these concepts can and should be implemented with for loops for multiple reasons. Using while loops for things like Newton's method and linesearches is more difficult for both you and the TA's to debug.
+
 
 Fill out project proposal form: [https://forms.gle/1XwkwVyVWirtZdF68](https://forms.gle/1XwkwVyVWirtZdF68)
 
-In this homework we are going to explore topics in dynamics and optimization. Here is an overview of the problems 
+In this homework we are going to explore topics in dynamics and optimization. Here is an overview of the problems:
 
-1. Implement 3 explicit and 3 implicit integrators, simulate a double pendulum with all of them and examine the differences in accuracy. The goal of this problem is to start thinking about integrators as modular, and demonstrate the difference between explicit and implicit integrators. 
+1. Implement 3 explicit and 3 implicit integrators to simulate a double pendulum and examine the differences in accuracy. The goal of this problem is to start thinking about integrators as modular, and demonstrate the difference between explicit and implicit integrators. 
 
 2. Write a well structured implementation of Newton's method with a backtracking linesearch. You will use this function to solve a simple constrained optimization problem, then you will use it to solve for the motor torques and configuration for a quadruped to balance on one leg. 
 
