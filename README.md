@@ -1,5 +1,7 @@
 # HW1_S23
 
+**Due Wednesday 2/15 11:59 PM Eastern.**
+
 ## Video walkthrough
 
 YouTube link: [https://youtu.be/V7i0tQlBLlE](https://youtu.be/V7i0tQlBLlE)
