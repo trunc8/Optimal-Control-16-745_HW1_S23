@@ -1,5 +1,13 @@
 # HW1_S23
 
+## Video walkthrough
+
+YouTube link: [https://youtu.be/V7i0tQlBLlE](https://youtu.be/V7i0tQlBLlE)
+
+[![HW1 Walkthrough](https://img.youtu.be/V7i0tQlBLlE.jpg)](https://youtu.be/V7i0tQlBLlE)
+
+
+## Instructions
 NOTE: You should not use any while loops in this homework. All of these concepts can and should be implemented with for loops for multiple reasons. Using while loops for things like Newton's method and linesearches is more difficult for both you and the TA's to debug.
 
 
